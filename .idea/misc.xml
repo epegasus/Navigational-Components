@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/fragment_home.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/fragment_profile.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/fragment_score.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/fragment_splash.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/layout/fragment_test.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/menu/menu_drawer.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/Modules/NavigationalComponents/app/src/main/res/menu/menu_toolbar.xml" value="0.3859375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/activity_main.xml" value="0.2752808988764045" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_about_app.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_failure.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_notification.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_profile.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_score.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_success.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/layout/fragment_test.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/menu/menu_drawer.xml" value="0.3875" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/NavigationalComponents/app/src/main/res/menu/menu_main.xml" value="0.22509702457956016" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
