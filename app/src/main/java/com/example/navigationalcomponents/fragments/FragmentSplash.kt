@@ -43,22 +43,9 @@ class FragmentSplash : Fragment() {
     }
 
     private fun setHandler() {
-        val navController = findNavController()
-
-
-        if (navController.currentDestination?.id == R.id.fragmentSplash ) {
-            navController.navigate(R.id.fragmentHome)
-        }
-
-
-
-
-
-
         runnable = Runnable {
-            val navController = findNavController()
-            if (Helper.isCurrentDestination(navController, R.id.fragmentSplash)) {
-                navController.navigate(R.id.action_fragmentSplash_to_fragmentHome)
+            if (Helper.isCurrentDestination(findNavController(), R.id.fragmentSplash)) {
+                findNavController().navigate(R.id.action_fragmentSplash_to_fragmentHome)
             }
         }
         handler?.postDelayed(runnable!!, 2000)
